@@ -18,6 +18,6 @@ speed < 40? true: false
 else speed = 50
   speed < 60 || speed > 40? true: false
 end
-	
+	end
 
 
